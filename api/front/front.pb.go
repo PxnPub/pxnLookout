@@ -75,7 +75,7 @@ const file_front_proto_rawDesc = "" +
 	"StatusJSON\x12\x12\n" +
 	"\x04Data\x18\x01 \x01(\fR\x04Data2R\n" +
 	"\x12ServiceFrontendAPI\x12<\n" +
-	"\x0fFetchStatusJSON\x12\x16.google.protobuf.Empty\x1a\x11.front.StatusJSONB(Z&github.com/PxnPub/pxnLookout/api/frontb\x06proto3"
+	"\x0fFetchStatusJSON\x12\x16.google.protobuf.Empty\x1a\x11.front.StatusJSONB)Z'github.com/PoiXson/pxnLookout/api/frontb\x06proto3"
 
 var (
 	file_front_proto_rawDescOnce sync.Once

@@ -1,4 +1,4 @@
-module github.com/PxnPub/pxnLookout/api
+module github.com/PoiXson/pxnLookout/api
 
 go 1.24.4
 

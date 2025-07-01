@@ -3,7 +3,7 @@ package pages;
 import(
 	HTTP "net/http"
 	TPL  "html/template"
-	HTML "github.com/PxnPub/pxnGoCommon/utils/html"
+	HTML "github.com/PoiXson/pxnGoCommon/utils/html"
 );
 
 

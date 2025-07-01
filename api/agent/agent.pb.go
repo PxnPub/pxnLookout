@@ -25,7 +25,7 @@ var File_agent_proto protoreflect.FileDescriptor
 
 const file_agent_proto_rawDesc = "" +
 	"\n" +
-	"\vagent.proto\x12\x05shard\x1a\x1bgoogle/protobuf/empty.protoB&Z$github.com/PxnPub/pxnShard/api/agentb\x06proto3"
+	"\vagent.proto\x12\x05shard\x1a\x1bgoogle/protobuf/empty.protoB)Z'github.com/PoiXson/pxnLookout/api/agentb\x06proto3"
 
 var file_agent_proto_goTypes = []any{}
 var file_agent_proto_depIdxs = []int32{

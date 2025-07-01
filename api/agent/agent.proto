@@ -1,4 +1,4 @@
 syntax = "proto3";
 package shard;
-option go_package = "github.com/PxnPub/pxnShard/api/agent";
+option go_package = "github.com/PoiXson/pxnLookout/api/agent";
 import "google/protobuf/empty.proto";

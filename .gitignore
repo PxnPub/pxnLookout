@@ -1,3 +1,7 @@
+broker/broker
+agent/agent
+frontend/frontend
+
 .git/
 .svn/
 .hg/

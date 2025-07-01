@@ -3,7 +3,7 @@ package app;
 
 import(
 	Flag    "flag"
-	Service "github.com/PxnPub/pxnGoCommon/service"
+	Service "github.com/PoiXson/pxnGoCommon/service"
 );
 
 

@@ -2,9 +2,9 @@ package weblink;
 // pxnLookout Frontend -> Broker
 
 import(
-	UtilsRPC  "github.com/PxnPub/pxnGoCommon/rpc"
-	Service   "github.com/PxnPub/pxnGoCommon/service"
-	API_Front "github.com/PxnPub/pxnLookout/api/front"
+	UtilsRPC  "github.com/PoiXson/pxnGoCommon/rpc"
+	Service   "github.com/PoiXson/pxnGoCommon/service"
+	API_Front "github.com/PoiXson/pxnLookout/api/front"
 );
 
 

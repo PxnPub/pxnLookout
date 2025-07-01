@@ -1,6 +1,6 @@
 package main;
 
-import App "github.com/PxnPub/pxnLookout/frontend/app";
+import App "github.com/PoiXson/pxnLookout/frontend/app";
 
 const Version = "{{{VERSION}}}";
 

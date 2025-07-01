@@ -1,3 +1,3 @@
-module github.com/PxnPub/pxnLookout/frontend
+module github.com/PoiXson/pxnLookout/frontend
 
 go 1.24.4

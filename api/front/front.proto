@@ -1,6 +1,6 @@
 syntax = "proto3";
 package front;
-option go_package = "github.com/PxnPub/pxnLookout/api/front";
+option go_package = "github.com/PoiXson/pxnLookout/api/front";
 import "google/protobuf/empty.proto";
 
 

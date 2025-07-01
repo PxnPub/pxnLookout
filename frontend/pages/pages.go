@@ -4,9 +4,9 @@ package pages;
 import(
 	TPL     "html/template"
 	Gorilla "github.com/gorilla/mux"
-	HTML    "github.com/PxnPub/pxnGoCommon/utils/html"
-	PxnNet  "github.com/PxnPub/pxnGoCommon/utils/net"
-	WebLink "github.com/PxnPub/pxnMetrics/frontend/weblink"
+	HTML    "github.com/PoiXson/pxnGoCommon/utils/html"
+	PxnNet  "github.com/PoiXson/pxnGoCommon/net"
+	WebLink "github.com/PoiXson/pxnLookout/frontend/weblink"
 );
 
 
